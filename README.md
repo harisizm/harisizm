@@ -20,8 +20,8 @@
 
 Language | Usage
 ------- | --------
-C# | 30%
-Python | 10%
-Java | 5%
-C/C++ | 50%
+CSS | 30%
+Javascript | 10%
+C | 5%
+Html | 50%
 Other | 5%
