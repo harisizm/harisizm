@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Haris Iftikhar</h1>
 
 <p align="center">
-  <em>Software Engineering// Mern Stack // -/- </em>
+  <em>Software Engineering // -/- </em>
 </p>
 
 ---
