@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Haris Iftikhar</h1>
 
 <p align="center">
-  <em>All Repositories have well documented Readme's  </em>
+  <em>All my Repositories have well documented Readme's  </em>
 </p>
 
 ---
