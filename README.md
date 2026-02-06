@@ -41,13 +41,13 @@ I specialize in **clean system design**, **performance-oriented frontends**, and
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
-|------|------------|-----------|
-| **📊 TransGPA** | Privacy-first transcript analyzer & CGPA simulator with interactive analytics | React, TypeScript, Tailwind, Recharts |
-| **🗓️ Timetable Generator (UOL)** | Automated timetable generator with smart filtering & shareable outputs | Python, Pandas, Streamlit |
-| **🎮 Khilariverse** | Cyberpunk-themed MERN e-commerce platform with admin analytics | MongoDB, Express, React, Node |
-| **🛒 Grocery POS System** | Full-featured POS & inventory system with role-based access | React, Node, MySQL |
-| **🛍️ Zayrah** | E-commerce grocery platform with JWT auth & payments | MERN Stack |
-| **👕 Zayr** | Clothing brand website with React routing & cart system | React, CSS |
+|--------|------------|-----------|
+| 📊 **[TransGPA](https://github.com/harisizm/TransGpa)** | Privacy-first transcript analyzer & CGPA simulator with interactive analytics | React, TypeScript, Tailwind, Recharts |
+| 🗓️ **[Timetable Generator (UOL)](https://github.com/harisizm/Timetable_Generator_UOL_deployed)** | Automated timetable generator with smart filtering & shareable outputs | Python, Pandas, Streamlit |
+| 🎮 **[Khilariverse](https://github.com/harisizm/Khilariverse)** | Cyberpunk-themed MERN e-commerce platform with admin analytics | MongoDB, Express, React, Node |
+| 🛒 **[Grocery POS System](https://github.com/harisizm/GROCERY-POS-SYSTEM)** | Full-featured POS & inventory system with role-based access | React, Node, MySQL |
+| 🛍️ **[Zayrah](https://github.com/harisizm/Zayrah)** | E-commerce grocery platform with JWT auth & payments | MERN Stack |
+| 👕 **[Zayr](https://github.com/harisizm/Zayr_by_Harisizm)** | Clothing brand website with React routing & cart system | React, CSS |
 
 ## 🎓 Education
 
@@ -75,13 +75,21 @@ I specialize in **clean system design**, **performance-oriented frontends**, and
 </p>
 
 <p align="center">
-  <a href="https://github.com/harisizm">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Transforming+Research+into+Production-Grade+AI+Systems;Building+Scalable+MERN+%26+AI-Powered+Web+Applications;From+Ideas+to+Deployed+Systems;Engineering+for+Performance%2C+Scale+%26+Impact" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=JetBrains+Mono
+  &size=22
+  &duration=2800
+  &pause=900
+  &color=38BDF8
+  &center=true
+  &vCenter=true
+  &width=900
+  &lines=🚀+Transforming+Research+into+Production-Grade+AI+Systems;
+  Building+Scalable+MERN+and+AI-Powered+Web+Applications;
+  From+Ideas+to+Deployed+Systems;
+  Engineering+for+Performance%2C+Scale+and+Impact" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/harisizm">
-    <img src="https://komarev.com/ghpvc/?username=harisizm&label=Profile%20Views&color=0ea5e9&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=harisizm&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
