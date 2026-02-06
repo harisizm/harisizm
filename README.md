@@ -1,73 +1,87 @@
-<h1 align="center">Haris Iftikhar</h1>
+<!-- ===================== HERO ===================== -->
+<h1 align="center">Hafiz Muhammad Haris</h1>
 
-### 🛠️ Technologies & Tools I Use
+## 👨‍💻 About Me
 
-<p align="left">
+I am a **Software Engineering undergraduate** and **Full-Stack MERN Developer** with strong hands-on experience building **scalable, data-driven web applications**.  
+I specialize in **clean system design**, **performance-oriented frontends**, and **robust backend architectures**, with growing focus on **AI-assisted and analytics-driven products**.
 
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a>
-<a href="https://redux-toolkit.js.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
-</a>
-<a href="https://reactrouter.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
-</a>
+- 🔭 **Currently working on delivering:** E commerce stores, POS Systems, Data-driven dashboards & scalable MERN systems  
+- ⚡ **Strength:** Translating real-world problems into reliable, production-ready software  
+---
 
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</a>
+## 🛠️ The Arsenal (Tech Stack)
 
-<!-- Database -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</a>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
 
-<!-- Payments & Media -->
-<a href="https://stripe.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40"/>
-</a>
+### Frontend
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite)
 
-<!-- Deployment -->
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-</a>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</a>
+### Tooling
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 
-<!-- Programming -->
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
+**Core Competencies:**  
+`System Design` • `MERN Architecture` • `Data Visualization` • `Authentication & RBAC` • `API Design` • `Performance Optimization`
 
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|------|------------|-----------|
+| **📊 TransGPA** | Privacy-first transcript analyzer & CGPA simulator with interactive analytics | React, TypeScript, Tailwind, Recharts |
+| **🗓️ Timetable Generator (UOL)** | Automated timetable generator with smart filtering & shareable outputs | Python, Pandas, Streamlit |
+| **🎮 Khilariverse** | Cyberpunk-themed MERN e-commerce platform with admin analytics | MongoDB, Express, React, Node |
+| **🛒 Grocery POS System** | Full-featured POS & inventory system with role-based access | React, Node, MySQL |
+| **🛍️ Zayrah** | E-commerce grocery platform with JWT auth & payments | MERN Stack |
+| **👕 Zayr** | Clothing brand website with React routing & cart system | React, CSS |
+
+## 🎓 Education
+
+**Bachelor of Software Engineering**  
+*University of Lahore* — **2023 – 2027**
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/harisizm">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/harisizm">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://harisifti.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
+---
+
+<p align="center">
+  <b>Let’s build something incredible together.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harisizm">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Transforming+Research+into+Production-Grade+AI+Systems;Building+Scalable+MERN+%26+AI-Powered+Web+Applications;From+Ideas+to+Deployed+Systems;Engineering+for+Performance%2C+Scale+%26+Impact" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harisizm">
+    <img src="https://komarev.com/ghpvc/?username=harisizm&label=Profile%20Views&color=0ea5e9&style=flat" />
+  </a>
+</p>
