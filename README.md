@@ -4,14 +4,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0c,50:10b981,100:e3b341&height=150&section=header&text=Hafiz%20Muhammad%20Haris&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20AI%20Platforms%20%C2%B7%20Data%20Pipelines&descAlignY=58&descSize=15" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=10B981&center=true&vCenter=true&width=800&height=36&lines=Shipping+production-grade+systems+end+to+end;Node.js+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;AI-integrated+platforms+grounded+in+real+data;Automation+that+turns+8-hour+days+into+10+minutes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=10B981&center=true&vCenter=true&width=800&lines=Shipping+production-grade+systems+end+to+end;Node.js+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;AI-integrated+platforms+grounded+in+real+data;Automation+that+turns+8-hour+days+into+10+minutes" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/harisizm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://harisifti.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:haris687.chohan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- PASTE_LINK_HERE: Coursera verification link -->
-<a href="PASTE_LINK_HERE"><img src="https://img.shields.io/badge/ML%20Specialization-Stanford%20%C2%B7%20DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=harisizm&style=for-the-badge&color=10b981&label=Views" />
 
 <table>
   <tr>
@@ -46,13 +43,19 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <b>🟢 Web7Labs · Full-Stack Software Engineer</b> <sub>Jul 2026 → now</sub><br/>
+      <table><tr>
+        <td width="56" valign="middle"><a href="https://www.web7labs.com"><img src="assets/web7labs.png" width="48" alt="Web7Labs"/></a></td>
+        <td valign="middle"><b>Web7Labs · Full-Stack Software Engineer</b><br/><sub>Jul 2026 → now · Lahore</sub></td>
+      </tr></table>
       <img src="https://img.shields.io/badge/Tourgenz-live%20since%20Sep%202026-10b981?style=flat-square" /> <img src="https://img.shields.io/badge/Client%20Hunt-8h%20%E2%86%92%2010min-e3b341?style=flat-square&logoColor=black" /><br/>
       <sub>• Core engineer on <a href="https://tourgenz.com">Tourgenz</a>: traveller app, 5 vendor portals, admin control room.<br/>
       • Client Hunt: crash-resilient Google Maps lead tool, SQLite dedup, 1-click Excel/CSV.</sub>
     </td>
     <td width="50%" valign="top">
-      <b>🔵 Bitbash · Software Engineering Intern</b> <sub>May → Jul 2026</sub><br/>
+      <table><tr>
+        <td width="56" valign="middle"><a href="https://www.bitbash.dev"><img src="assets/bitbash.png" width="48" alt="BitBash"/></a></td>
+        <td valign="middle"><b>BitBash · Software Engineering Intern</b><br/><sub>May → Jul 2026 · Lahore</sub></td>
+      </tr></table>
       <img src="https://img.shields.io/badge/Manual%20effort-%E2%88%9295%25-10b981?style=flat-square" /> <img src="https://img.shields.io/badge/Content-70%25%20faster-e3b341?style=flat-square&logoColor=black" /><br/>
       <sub>• Instagram lead platform: automated discovery → export, thousands of leads daily.<br/>
       • Cloudflare-resistant Upwork scraper with Discord alerts; ChatGPT SEO pipeline on a VPS.</sub>
@@ -64,11 +67,10 @@
 <h3 align="center">🚀 Projects</h3>
 <table align="center">
   <tr>
-    <td width="34%" align="center" valign="middle">
-      <!-- PASTE_LINK_HERE: Tourgenz screenshot or GIF -->
-      <img src="PASTE_LINK_HERE" alt="Tourgenz" width="100%"/>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://tourgenz.com"><img src="assets/tourgenz.png" alt="Tourgenz" width="100%"/></a>
     </td>
-    <td width="66%" valign="top">
+    <td width="62%" valign="top">
       <b>🌍 Tourgenz · AI tourism & booking marketplace</b><br/>
       <a href="https://tourgenz.com"><img src="https://img.shields.io/badge/Live-tourgenz.com-10b981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
       <!-- PASTE_LINK_HERE: Tourgenz repo, if public -->
@@ -122,12 +124,9 @@
 
 <!-- ===================== STATS ===================== -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harisizm&show_icons=true&theme=dark&bg_color=0a0f0c&title_color=10b981&icon_color=e3b341&text_color=edf3f0&border_color=1f2a24&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisizm&layout=compact&theme=dark&bg_color=0a0f0c&title_color=10b981&text_color=edf3f0&border_color=1f2a24&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harisizm&show_icons=true&theme=dark&bg_color=0a0f0c&title_color=10b981&icon_color=e3b341&text_color=edf3f0&border_color=1f2a24&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisizm&layout=compact&theme=dark&bg_color=0a0f0c&title_color=10b981&text_color=edf3f0&border_color=1f2a24&langs_count=8&hide=jupyter%20notebook,batchfile" />
   <img height="160" src="https://streak-stats.demolab.com?user=harisizm&theme=dark&background=0a0f0c&ring=10b981&fire=e3b341&currStreakLabel=10b981&sideLabels=edf3f0&dates=93a29c&border=1f2a24" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=harisizm&theme=darkhub&no-frame=true&row=1&column=8&margin-w=6" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/harisizm/harisizm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3b341,50:10b981,100:0a0f0c&height=80&section=footer" width="100%" />
 </div>
